@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonumentBradley", "MonumentBradley.csproj", "{460387AA-D677-4C13-87B4-AFD931EB040D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460387AA-D677-4C13-87B4-AFD931EB040D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460387AA-D677-4C13-87B4-AFD931EB040D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460387AA-D677-4C13-87B4-AFD931EB040D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460387AA-D677-4C13-87B4-AFD931EB040D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A59313-89B6-4F0B-87E2-7594B7859F4D}
+	EndGlobalSection
+EndGlobal
